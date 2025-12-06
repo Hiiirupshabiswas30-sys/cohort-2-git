@@ -24,7 +24,7 @@ body{
     font-family: Arial,sans-serif;
 }
 h1{
-    color: rgb(66, 100, 235);
+    color: rgb(244, 242, 104);
     
 }
 
@@ -32,7 +32,7 @@ button{
     padding: 10px 20px;
     font-size: 16 px;
     color: white;
-    background-color: rgb(41, 70, 165);
+    background-color: rgb(218, 225, 12);
     border: none;
     border-radius: 5px;
     cursor: pointer;
